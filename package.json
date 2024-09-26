@@ -1,0 +1,27 @@
+{
+  "name": "renepruu",
+  "version": "1.0.0",
+  "description": "veebiprogrameerimise kursus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://renepruu@github.com/renepruu/renepruu.git"
+  },
+  "keywords": [
+    "veebi",
+    "programeerimine"
+  ],
+  "author": "Rene Pruul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renepruu/renepruu/issues"
+  },
+  "homepage": "https://github.com/renepruu/renepruu#readme",
+  "dependencies": {
+    "express": "~4.16.1"
+  }
+  
+}
